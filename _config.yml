@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Monash Neurointervention
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Designing and advancing the future of neurovascular care through clinical excellence, patient-centred care, and innovative research to reduce disability and extend life.
+show_downloads: false
+google_analytics: 391879674
 theme: jekyll-theme-minimal
